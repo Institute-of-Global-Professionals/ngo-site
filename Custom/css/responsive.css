@@ -1,0 +1,958 @@
+@media screen and (max-width: 1280px){
+    header{
+        height: 55vh;
+    }
+}
+
+@media screen and (max-width: 1200px){
+    .hero-text-box{
+        width: 95%;
+    }
+}
+
+@media screen and (max-width: 1170px){
+    .row{
+        margin: 0 1.5rem;
+    }
+}
+
+
+@media screen and (max-width: 1024px){
+
+    header{
+        height: 50vh;
+    }
+
+    nav{
+        padding: .3rem 0;
+    }
+
+    .main-nav{
+        display: none;
+    }
+
+    .logo-section{
+        margin-top: 1rem;
+    }
+
+    .dropdown button{
+        margin-top: 1rem;
+        font-size: 1.7rem;
+    }
+
+
+    .mobile-menu span{
+        display: block;
+    }
+
+    .top-header-section{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 980px){
+
+    .post-main-box{
+        margin-bottom: 1.5rem;
+    }
+    .view-all-btn-box{
+        padding: 4.3rem 0;
+    }
+
+     /* Home Page */
+    .funding-donors-home-section .span_1_of_6{
+        width: 49.2%;
+    }
+    .funding-donors-home-section .col:nth-child(3){
+        margin-left: 0;
+    }
+    .funding-donors-home-section .col:nth-child(5){
+        margin-left: 0;
+    }
+    .funding-donors-home-section .col:nth-child(9){
+        margin-left: 0;
+    }
+    .funding-donors-home-section .col:nth-child(11){
+        margin-left: 0;
+    }
+
+    /* Funding Donors Page */
+    .funding-donors-section .span_1_of_6{
+        width: 49.2%;
+    }
+    .funding-donors-section .col:nth-child(3){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(5){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(9){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(11){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(15){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(17){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(19){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(21){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(23){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(25){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(27){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(29){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(33){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(35){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(39){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(41){
+        margin-left: 0;
+    }
+
+    /* Trust Page */
+    .trust-section .span_1_of_6{
+        width: 49.2%;
+    }
+    .trust-section .col:nth-child(3){
+        margin-left: 0;
+    }
+    .trust-section .col:nth-child(5){
+        margin-left: 0;
+    }
+    .trust-section .col:nth-child(9){
+        margin-left: 0;
+    }
+    .trust-section .col:nth-child(11){
+        margin-left: 0;
+    }
+
+    /* Children Page */
+    .children-section .span_1_of_6{
+        width: 49.2%;
+    }
+    .children-section .col:nth-child(3){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(5){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(9){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(11){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(15){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(17){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(19){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(21){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(23){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(25){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(27){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(29){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(33){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(35){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(39){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(41){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(45){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(47){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(51){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(53){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(57){
+        margin-left: 0;
+    }
+
+    /* Youth Page */
+    .youth-section .span_1_of_6{
+        width: 49.2%;
+    }
+    .youth-section .col:nth-child(3){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(5){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(9){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(11){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(15){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(17){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(19){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(21){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(23){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(25){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(27){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(29){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(33){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(35){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(39){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(41){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(45){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(47){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(51){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(53){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(57){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(59){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(63){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(65){
+        margin-left: 0;
+    }
+
+    /* Disaster Page */
+    .disaster-section .span_1_of_6{
+        width: 49.2%;
+    }
+    .disaster-section .col:nth-child(3){
+        margin-left: 0;
+    }
+    .disaster-section .col:nth-child(5){
+        margin-left: 0;
+    }
+    .disaster-section .col:nth-child(9){
+        margin-left: 0;
+    }
+
+    /* Wildlife Page */
+    .wildlife-section .span_1_of_6{
+        width: 49.2%;
+    }
+    .wildlife-section .col:nth-child(3){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(5){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(9){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(11){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(15){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(17){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(19){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(21){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(23){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(25){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(27){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(29){
+        margin-left: 0;
+    }
+
+    /* Health Page */
+    .health-section .span_1_of_6{
+        width: 49.2%;
+    }
+    .health-section .col:nth-child(3){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(5){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(9){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(11){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(15){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(17){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(19){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(21){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(23){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(25){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(27){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(29){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(33){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(35){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(39){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(41){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(45){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(47){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(51){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(53){
+        margin-left: 0;
+    }
+
+    /* Contact Page */
+    .contact-section form{
+        width: 100%;
+    }
+
+    /* Footer */
+    .footer-section .span_1_of_4{
+        width: 49.2%;
+    }
+    .footer-section .col:nth-child(3){
+        margin-left: 0;
+    }
+    .download-apps img{
+        width: 30%;
+    }
+
+}
+
+@media screen and (max-width: 850px){
+    header{
+        height: 40vh;
+    }
+}
+
+@media screen and (max-width: 720px){
+
+    .view-all-btn-box{
+        padding: 2rem 0;
+    }
+    .post-main-box img{
+        height: 8rem;
+    }
+
+    /* Home Page */
+    .funding-donors-home-section .span_1_of_6{
+        width: 100%;
+    }
+    .funding-donors-home-section .col:nth-child(2){
+        margin-left: 0;
+    }
+    .funding-donors-home-section .col:nth-child(4){
+        margin-left: 0;
+    }
+    .funding-donors-home-section .col:nth-child(6){
+        margin-left: 0;
+    }
+    .funding-donors-home-section .col:nth-child(8){
+        margin-left: 0;
+    }
+    .funding-donors-home-section .col:nth-child(10){
+        margin-left: 0;
+    }
+    .funding-donors-home-section .col:nth-child(12){
+        margin-left: 0;
+    }
+
+    /* Funding Donors Page */
+    .funding-donors-section .span_1_of_6{
+        width: 100%;
+    }
+    .funding-donors-section .col:nth-child(2){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(4){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(6){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(8){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(10){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(12){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(14){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(16){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(18){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(20){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(22){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(24){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(26){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(28){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(30){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(32){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(34){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(36){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(38){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(40){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(42){
+        margin-left: 0;
+    }
+    .funding-donors-section .col:nth-child(44){
+        margin-left: 0;
+    }
+
+    /* Trust Page */
+    .trust-section .span_1_of_6{
+        width: 100%;
+    }
+    .trust-section .col:nth-child(2){
+        margin-left: 0;
+    }
+    .trust-section .col:nth-child(4){
+        margin-left: 0;
+    }
+    .trust-section .col:nth-child(6){
+        margin-left: 0;
+    }
+    .trust-section .col:nth-child(8){
+        margin-left: 0;
+    }
+    .trust-section .col:nth-child(10){
+        margin-left: 0;
+    }
+    .trust-section .col:nth-child(12){
+        margin-left: 0;
+    }
+
+    /* Children Page */
+    .children-section .span_1_of_6{
+        width: 100%;
+    }
+    .children-section .col:nth-child(2){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(4){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(6){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(8){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(10){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(12){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(14){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(16){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(18){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(20){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(22){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(24){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(26){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(28){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(30){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(32){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(34){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(36){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(38){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(40){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(42){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(44){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(46){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(48){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(50){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(52){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(54){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(56){
+        margin-left: 0;
+    }
+    .children-section .col:nth-child(57){
+        margin-left: 0;
+    }
+
+    /* Youth Page */
+    .youth-section .span_1_of_6{
+        width: 100%;
+    }
+    .youth-section .col:nth-child(2){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(4){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(6){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(8){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(10){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(12){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(14){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(16){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(18){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(20){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(22){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(24){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(26){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(28){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(30){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(32){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(34){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(36){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(38){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(40){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(42){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(44){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(46){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(48){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(50){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(52){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(54){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(56){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(58){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(60){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(62){
+        margin-left: 0;
+    }
+    .youth-section .col:nth-child(64){
+        margin-left: 0;
+    }
+    
+    /* Disaster Page */
+    .disaster-section .span_1_of_6{
+        width: 100%;
+    }
+    .disaster-section .col:nth-child(2){
+        margin-left: 0;
+    }
+    .disaster-section .col:nth-child(4){
+        margin-left: 0;
+    }
+    .disaster-section .col:nth-child(6){
+        margin-left: 0;
+    }
+    .disaster-section .col:nth-child(8){
+        margin-left: 0;
+    }
+    .disaster-section .col:nth-child(10){
+        margin-left: 0;
+    }
+
+    /* Wildlife Page */
+    .wildlife-section .span_1_of_6{
+        width: 100%;
+    }
+    .wildlife-section .col:nth-child(2){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(4){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(6){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(8){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(10){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(12){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(14){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(16){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(18){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(20){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(22){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(24){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(26){
+        margin-left: 0;
+    }
+    .wildlife-section .col:nth-child(28){
+        margin-left: 0;
+    }
+
+    /* Health Page */
+    .health-section .span_1_of_6{
+        width: 100%;
+    }
+    .health-section .col:nth-child(2){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(4){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(6){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(8){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(10){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(12){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(14){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(16){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(18){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(20){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(22){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(24){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(26){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(28){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(30){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(32){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(34){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(36){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(38){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(40){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(42){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(44){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(46){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(48){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(50){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(52){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(54){
+        margin-left: 0;
+    }
+    .health-section .col:nth-child(56){
+        margin-left: 0;
+    }
+
+    /* Footer */
+    .footer-section .span_1_of_4{
+        width: 100%;
+    }
+    .footer-section .col:nth-child(2){
+        margin-left: 0;
+        margin-top: 1.5rem;
+    }
+    .footer-section .col:nth-child(4){
+        margin-left: 0;
+    }
+    .download-apps img{
+        width: 23%;
+    }
+}
+
+@media screen and (max-width: 480px){
+    html{
+        font-size: 56.25%;
+    }
+
+    .loader-icon h3{
+        font-size: 3.5rem;
+    }
+    #preloader p{
+        font-size: 2rem;
+    }
+
+    .hero-text-box h1{
+        font-size: 5rem;
+    }
+
+    .logo img{
+        height: 4.5rem;
+    }
+
+    .download-apps img{
+        width: 45%;
+    }
+}
+
+@media screen and (max-width: 365px){
+    html{
+        font-size: 50%;
+    }
+}
